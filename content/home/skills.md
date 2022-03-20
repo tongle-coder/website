@@ -23,11 +23,7 @@ feature:
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Machine Learning
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Deep Learning
+  name: Machine&Deep Learning
 - description: 80%
   icon: camera-retro
   icon_pack: fas
