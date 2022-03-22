@@ -30,7 +30,7 @@ image:
 
 authors:
 - admin
-- 吳恩達
+- 王同乐
 
 tags:
 - Academic

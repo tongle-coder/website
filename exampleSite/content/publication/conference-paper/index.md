@@ -1,13 +1,13 @@
 ---
-title: "An example conference paper"
+title: "An opinion-unaware blind quality assessment algorithm for multiply distorted images"
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Tongle Wang
+date: "2022-03-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-12-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +19,10 @@ publication_types: ["1"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The blind image quality assessment algorithms produced every year are mostly “opinion-aware” (OA). It means that they require large numbers of subjective quality scores for regression model training. Subjective quality scores are not easily available, so people are eager to design an opinion-unaware (OU) algorithm which has free subjective quality scores. Besides, the OU algorithm has greater generalization capability than the OA algorithm. Therefore, we propose an OU algorithm based on a visual codebook for multiply distorted image quality assessment. Extensive experiments conducted on the three databases demonstrate that the proposed method is superior to the existing five OU methods in terms of the coherence with the human subjective rating. The MATLAB code is available at https://tonglewang.github.io.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A multi distortion blind image quality algorithm with unknown opinion quality score to improve the correlation with human vision.
 
 tags:
 - Source Themes
@@ -31,8 +31,8 @@ featured: true
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11384/2559541/An-opinion-unaware-blind-quality-assessment-algorithm-for-multiply-distorted/10.1117/12.2559541.short?SSO=1
+url_code: 'https://github.com/tongle-coder/Electronics-Letters_code'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
