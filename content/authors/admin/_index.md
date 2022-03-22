@@ -69,4 +69,4 @@ highlight_name: true
 
 Wang Tongle is an algorithm engineer. He is currently working at Mininglamp Technology, mainly responsible for algorithm research in advertising budget allocation, advertising attribution and abnormal advertising traffic monitoring. 
 Before joining Mininglamp Technology, he was in charge of quantitative trading strategy research at Ping An Technology.        
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
