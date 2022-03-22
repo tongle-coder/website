@@ -31,7 +31,7 @@ item:
   organization_url: https://www.pmi.org
   title: PMP Certificate
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://rsj.sh.gov.cn/
   date_end: ""
   date_start: "2022-01-15"
   description: "Participated in the 2021 Shanghai artificial intelligence direction intermediate engineer review and won the intermediate title"
