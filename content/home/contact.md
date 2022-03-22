@@ -28,10 +28,10 @@ content:
   email: tongle_wang@yeah.net
   phone: 888 888 88 88
   address:
-    street: -
+    street: Longhua
     city: Shanghai
     region: Xuhui
-    postcode: '-'
+    postcode: '200232'
     country: China
     country_code: CH
   coordinates:
