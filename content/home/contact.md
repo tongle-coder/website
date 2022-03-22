@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: tongle_wang@yeah.net
-  phone: -
+  phone: 888 888 88 88
   address:
     street: -
     city: Shanghai
